@@ -52,7 +52,9 @@ if (!self.__WB_pmw) {
   }
 
   function setTitle(title) {
-    document.title = title ? title : "cluda | " + getRandomGreeting() + "!";
+    document.title = title
+      ? title
+      : "hellstabber | " + getRandomGreeting() + "!";
   }
 
   document.addEventListener("visibilitychange", handleVisibilityChange, true);
