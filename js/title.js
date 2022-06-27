@@ -36,17 +36,20 @@ if (!self.__WB_pmw) {
 
   function getRandomGreeting() {
     const greetings = [
-      "Bonjour",
-      "Hola",
-      "Nǐn Hǎo",
-      "Salve",
-      "こんばんは",
-      "Guten Tag",
-      "Olá",
-      "Anyoung Haseyo",
-      "Goedendag",
-      "Yassas",
-      "Namaste",
+      "Bonjour !",
+      "Merhaba !",
+      "Salam !",
+      "Привет !",
+      "Hola !",
+      "你好 !",
+      "Salve !",
+      "こんばんは !",
+      "Guten Tag !",
+      "Olá !",
+      "안녕하세요 !",
+      "Goedendag !",
+      "Yassas !",
+      "Namaste !",
     ];
     return greetings[Math.floor(Math.random() * greetings.length)];
   }
