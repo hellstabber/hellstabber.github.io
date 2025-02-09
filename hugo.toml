@@ -1,0 +1,3 @@
+baseURL = 'https://hellstabber.github.io/'
+languageCode = 'tr-TR'
+title = 'My New Hugo Site'

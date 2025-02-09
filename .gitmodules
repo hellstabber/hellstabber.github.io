@@ -1,0 +1,8 @@
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "themes/cloakemail"]
+	path = themes/cloakemail
+	url = https://github.com/martignoni/hugo-cloak-email
+	branch = main

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eren Kaplan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Eren Kaplan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <managingEditor>erenkaplan@tutanota.com (Eren Kaplan)</managingEditor>
+    <webMaster>erenkaplan@tutanota.com (Eren Kaplan)</webMaster>
+    <copyright>© 2025 Eren Kaplan — aksi belirtilmedikçe [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)</copyright>
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abone Ol</title>
+      <link>http://localhost:1313/sub/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <author>erenkaplan@tutanota.com (Eren Kaplan)</author>
+      <guid>http://localhost:1313/sub/</guid>
+      <description>Bu siteye nasıl abone olabilirim?</description>
+      
+    </item>
+    
+    <item>
+      <title>Destek</title>
+      <link>http://localhost:1313/destek/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <author>erenkaplan@tutanota.com (Eren Kaplan)</author>
+      <guid>http://localhost:1313/destek/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>İletişim</title>
+      <link>http://localhost:1313/iletisim/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <author>erenkaplan@tutanota.com (Eren Kaplan)</author>
+      <guid>http://localhost:1313/iletisim/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Twitter&#39;ı akıl sağlığınızı koruyarak nasıl kullanırız?</title>
+      <link>http://localhost:1313/posts/twitter/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <author>erenkaplan@tutanota.com (Eren Kaplan)</author>
+      <guid>http://localhost:1313/posts/twitter/</guid>
+      <description>Twitter&amp;rsquo;ı bu şekilde kullanıyorum.</description>
+      
+    </item>
+    
+    <item>
+      <title>GNU/Linux&#39;ta Dosya Yetkilendirmeleri</title>
+      <link>http://localhost:1313/posts/linuxdadosyayetkilendirme/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <author>erenkaplan@tutanota.com (Eren Kaplan)</author>
+      <guid>http://localhost:1313/posts/linuxdadosyayetkilendirme/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sosyal Medyayı Silmek Sizi Dijital Minimalist Yapmaz</title>
+      <link>http://localhost:1313/posts/sosyal-medyayi-silmek-sizi-dijital-minimalist-yapmaz/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <author>erenkaplan@tutanota.com (Eren Kaplan)</author>
+      <guid>http://localhost:1313/posts/sosyal-medyayi-silmek-sizi-dijital-minimalist-yapmaz/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dijital Minimalizm</title>
+      <link>http://localhost:1313/posts/digital-minimalizm/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <author>erenkaplan@tutanota.com (Eren Kaplan)</author>
+      <guid>http://localhost:1313/posts/digital-minimalizm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arch Linux’ta Swift ve Vapor</title>
+      <link>http://localhost:1313/posts/arch-linuxta-swift-ve-vapor/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <author>erenkaplan@tutanota.com (Eren Kaplan)</author>
+      <guid>http://localhost:1313/posts/arch-linuxta-swift-ve-vapor/</guid>
+      <description>Swift’in gücünü sunucu tarafında da görelim.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
