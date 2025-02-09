@@ -5,35 +5,36 @@ weight = 1
 title = "Eren Kaplan"
 
 [params]
-  displayName = "TR"
-  isoCode = "tr"
-  rtl = false
-  dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  copyright = "© 2025 Eren Kaplan — aksi belirtilmedikçe [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)"
+displayName = "TR"
+isoCode = "tr"
+rtl = false
+dateFormat = "2 January 2006"
+# logo = "img/logo.png"
+# secondaryLogo = "img/secondary-logo.png"
+# description = "My awesome website"
+copyright = "© 2025 Eren Kaplan — aksi belirtilmedikçe [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)"
 
 
 [params.author]
-   name = "Eren Kaplan"
-   email = "erenkaplan@tutanota.com"
-   image = "img/me.jpg"
-   imageQuality = 80
-   headline = "Infosec Guy"
-   bio = "Infosec Guy"
-   links = [
-    { email = "mailto:erenkaplan@tutanota.com" },
-    { keybase = "https://keybase.io/erenkaplan" },
-    { github = "https://github.com/hellstabber" },
-    { gitlab = "https://gitlab.com/hellstabber" },
-    { codeberg = "https://codeberg.org/hellstabber"},
-    { bluesky = "https://bsky.app/profile/erenkaplan.bsky.social" },
-    { mastodon = "https://defcon.social/@hellstabber" },
-    { lastfm = "https://www.last.fm/user/hellstabber/" },
-    { goodreads = "https://www.goodreads.com/erenkaplan" },
-    { medium = "https://medium.com/@eren-kaplan" },
-   ]
+name = "Eren Kaplan"
+email = "erenkaplan@tutanota.com"
+image = "img/me.jpg"
+imageQuality = 80
+headline = "Infosec Guy"
+bio = "Infosec Guy"
+links = [
+  { email = "mailto:erenkaplan@tutanota.com" },
+  { keybase = "https://keybase.io/erenkaplan" },
+  { github = "https://github.com/hellstabber" },
+  { gitlab = "https://gitlab.com/hellstabber" },
+  { codeberg = "https://codeberg.org/hellstabber" },
+  { linkedin = "https://linkedin.com/in/eren-kaplan-sec" },
+  { bluesky = "https://bsky.app/profile/erenkaplan.bsky.social" },
+  { mastodon = "https://defcon.social/@hellstabber" },
+  { lastfm = "https://www.last.fm/user/hellstabber/" },
+  { goodreads = "https://www.goodreads.com/erenkaplan" },
+  { medium = "https://medium.com/@eren-kaplan" },
+]
 
 
 # [params.author]
