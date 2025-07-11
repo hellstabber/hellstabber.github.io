@@ -33,7 +33,7 @@
 
 [[main]]
   name = "gpg"
-  url = "/gpg.asc"
+  url = "https://keys.openpgp.org/vks/v1/by-fingerprint/3212E991D32024BDE81C9B89E413E11FBEA575C7"
   weight = 40
 
 [[main]]
